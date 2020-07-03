@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\qkr\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+    "editor.wordWrap": "on",
+    "python.linting.pylintArgs": [
+        "--extension-pkg-whitelist=numpy"
+    ],
+    "python.linting.enabled": false
+}
